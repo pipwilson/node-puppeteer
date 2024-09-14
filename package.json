@@ -1,0 +1,14 @@
+{
+  "name": "how-many-people-in-space",
+  "version": "1.0.0",
+  "description": "```\r $ bundle install\r $ rerun ruby app.rb\r ```",
+  "main": "puppeteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.3.0"
+  }
+}
